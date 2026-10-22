@@ -1,0 +1,1 @@
+Mahbub QR Print website files. Upload these files to the GitHub repository. To activate order submission, configure Supabase URL and anon/public key in config.js and run supabase_setup.sql in Supabase SQL Editor. Never publish a service_role/secret key.
